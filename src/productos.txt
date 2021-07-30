@@ -1,0 +1,20 @@
+[
+	{
+		"title": "bordeadora",
+		"price": 159.33,
+		"thumbnail": "https://mifotodeproducto.com/bordeadora.jpg",
+		"id": 1
+	},
+	{
+		"title": "lijadora",
+		"price": 223.76,
+		"thumbnail": "https://mifotodeproducto.com/lijadora.jpg",
+		"id": 2
+	},
+	{
+		"title": "atornilladora",
+		"price": 123.02,
+		"thumbnail": "https://mifotodeproducto.com/atornilladora.jpg",
+		"id": 3
+	}
+]
